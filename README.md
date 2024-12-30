@@ -1,5 +1,4 @@
-# bug-free-octo-giggle
-Men yon tèks kout sou entèlijans atifisyèl (AI) ke ou ka itilize sou paj ou a:  
+# bug-free-octo-giggl
 
 ---
 
@@ -23,4 +22,4 @@ Avèk devlopman kontinyèl nan teknoloji sa a, AI gen potansyèl pou reyalize an
 
 ---
 
-Si ou vle plis detay oswa ou vle fè chanjman, fè m konnen! 😊
+
